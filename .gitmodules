@@ -1,0 +1,3 @@
+[submodule "mod06"]
+	path = mod06
+	url = https://github.com/mariohm/quiz
